@@ -1,0 +1,42 @@
+{
+  "id": "/corner-office/",
+  "name": "Corner Office",
+  "short_name": "Corner Office",
+  "description": "Corner Office by Zaib: tap to work, play quick office tasks, hire funny coworkers and get promoted from Intern all the way to CEO. Watch your desk and office grow fancier with every rank.",
+  "lang": "en",
+  "start_url": "/corner-office/?source=pwa",
+  "scope": "/corner-office/",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#141a33",
+  "background_color": "#141a33",
+  "categories": [
+    "games"
+  ],
+  "icons": [
+    {
+      "src": "/corner-office/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/corner-office/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/corner-office/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/corner-office/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
